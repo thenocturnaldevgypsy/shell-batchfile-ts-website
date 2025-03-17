@@ -1,6 +1,7 @@
-# ts_website_downtime
-Created a shell script to run some checks when the website is down for personal user
+# shell_ts_website
+Created a shell script for Mac OS to run some checks when the website is down for personal user
 
+**Sample output:**
 ```
 Enter the website URL (without http/https): www.google.com
 Running troubleshooting tests for www.google.com...
