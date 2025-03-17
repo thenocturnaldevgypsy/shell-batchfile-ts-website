@@ -1,5 +1,5 @@
 # shell_ts_website
-Created a shell script for Mac OS to run some checks when the website is down for personal user
+Created a shell script for Mac OS to run some checks when the website is down for personal use
 
 **Sample output:**
 ```
