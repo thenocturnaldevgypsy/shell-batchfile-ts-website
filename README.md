@@ -1,4 +1,4 @@
-# shell_ts_website
+# shell-batchfile-ts-website
 Created a shell script for Mac OS to run some checks when the website is down for personal use
 
 Updates as of 28/03/2025: added Windows Batch Script (`troubleshoot.bat`)
